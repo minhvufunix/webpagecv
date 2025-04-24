@@ -1,0 +1,31 @@
+@media screen {
+  
+}  (max-width: 450px)  {
+
+  body{
+  font-size: 14px;
+
+  }
+
+  .web-document  > div.web-page{
+    width: 450px;
+    background-color: orangered;
+  }
+
+  .web-document  > .web-page{
+    width: 450px;
+    background-color: darkblue;
+  }
+
+  div.web-page {
+    width: 450px;
+    background-color: green;
+  }
+
+  /* .section-item1 {
+    background-color:  red!important; 
+  } */
+}
+/* .section-item1 {
+  background-color:  red!important; 
+} */
